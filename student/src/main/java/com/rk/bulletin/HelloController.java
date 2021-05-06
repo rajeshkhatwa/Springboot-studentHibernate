@@ -12,7 +12,7 @@ public class HelloController {
 	@RequestMapping("/hello")
 	public String sayHello()
 	{
- return "I am at port 8090 check it 26";
+ return "I am at port 8090 check it 26gmm";
 }
 	
 	

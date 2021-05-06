@@ -1,7 +1,9 @@
 package com.rk.bulletin.Entities;
 
 public class Student {
-
+/*
+ * */
+ 
 	private String firstName;
 	private String lastName;
 	
