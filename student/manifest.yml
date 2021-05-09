@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: uploaded
+  - name: student_wo_hibernate
     memory: 1024M
     buildpack: sap_java_buildpack
     instances: 1
